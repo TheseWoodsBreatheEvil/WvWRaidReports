@@ -1,0 +1,35 @@
+{
+  "colorPalette": "teal-ocean",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260802-204632-qxqf",
+      "title": "Leo The Vicious",
+      "commanders": [
+        "Leo The Vicious"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-08-02T10:46:32.000Z",
+      "dateEnd": "2026-08-02T12:00:21.000Z",
+      "dateLabel": "02/08/2026, 20:46:32 - 02/08/2026, 22:00:21",
+      "url": "https://thesewoodsbreatheevil.github.io/WvWRaidReports/?report=20260802-204632-qxqf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 51
+      }
+    }
+  ]
+}
