@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260916-202047-26cd",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-09-16T10:20:47.000Z",
+      "dateEnd": "2026-09-16T11:51:45.999Z",
+      "dateLabel": "16/09/2026, 20:20:47 - 16/09/2026, 21:51:45",
+      "url": "https://TheseWoodsBreatheEvil.github.io/WvWRaidReports/?report=20260916-202047-26cd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260823-203505-pi9w",
       "title": "Leo Altyr",
       "commanders": [
