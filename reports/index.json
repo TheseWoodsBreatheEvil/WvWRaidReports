@@ -2,7 +2,42 @@
   "colorPalette": "teal-ocean",
   "glassSurfaces": false,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260923-202814-bzyo",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
+      ],
+      "guild": {
+        "id": "A3CB0B52-063F-F111-BB16-027555657585",
+        "name": "Fair Fights",
+        "tag": "GG"
+      },
+      "dateStart": "2026-09-23T10:28:14.000Z",
+      "dateEnd": "2026-09-23T11:31:18.790Z",
+      "dateLabel": "23/09/2026, 20:28:14 - 23/09/2026, 21:31:18",
+      "url": "https://TheseWoodsBreatheEvil.github.io/WvWRaidReports/?report=20260923-202814-bzyo",
+      "summary": {
+        "borderlandsPct": 0.17647058823529413,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20260916-202047-26cd",
       "title": "Leo Alistair, Leo Altyr",
