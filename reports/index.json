@@ -3,7 +3,41 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.5"
+  },
   "entries": [
+    {
+      "id": "20261011-200411-mryr",
+      "title": "Âltyr, Leo Alistair",
+      "commanders": [
+        "Âltyr",
+        "Leo Alistair"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-10-11T09:04:11.000Z",
+      "dateEnd": "2026-10-11T10:15:04.953Z",
+      "dateLabel": "11/10/2026, 20:04:11 - 11/10/2026, 21:15:04",
+      "url": "https://TheseWoodsBreatheEvil.github.io/WvWRaidReports/?report=20261011-200411-mryr",
+      "publishedBy": "TheseWoodsBreatheEvil",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 39
+      }
+    },
     {
       "id": "20261001-211430-rngk",
       "title": "Leo Altyr",
