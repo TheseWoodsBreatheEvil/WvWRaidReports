@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261103-204926-pofo",
+      "title": "Leo Alistair, Leo Altyr",
+      "commanders": [
+        "Leo Alistair",
+        "Leo Altyr"
+      ],
+      "guild": {
+        "id": "149BDE3E-32A2-EA11-81AA-A77AA130EAB8",
+        "name": "Resistànce",
+        "tag": "RE"
+      },
+      "dateStart": "2026-11-03T09:49:26.000Z",
+      "dateEnd": "2026-11-03T11:04:57.992Z",
+      "dateLabel": "03/11/2026, 20:49:26 - 03/11/2026, 22:04:57",
+      "url": "https://TheseWoodsBreatheEvil.github.io/WvWRaidReports/?report=20261103-204926-pofo",
+      "publishedBy": "TheseWoodsBreatheEvil",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20261103-204255-ttww",
       "title": "Âltyr, Leo Alistair, Leo Altyr",
       "commanders": [
